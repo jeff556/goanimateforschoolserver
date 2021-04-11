@@ -44,6 +44,11 @@
 			"headers": {
 				"Content-Type": "text/html; charset=UTF-8"
 			}
+		},
+		"misc/(.*)": {
+			"headers": {
+				"Content-Type": "audio/mp3; charset=UTF-8"
+			}
 		}
 	},
 	"POST": {
